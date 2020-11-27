@@ -1,0 +1,426 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/" xmlns:media="http://search.yahoo.com/mrss/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:wp="http://wordpress.org/export/1.2/" version="2.0">
+   <feeds>
+      <Content>
+         <item>
+            <key>home</key>
+            <category>Home</category>
+            <url>https://indianexpress.com/feedapi/multi-priority/1929673-2332338-2222647/0/</url>
+         </item>
+         <item>
+            <key>coronavirus</key>
+            <category>Coronavirus Pandemic</category>
+            <url>https://indianexpress.com/feedapi/section/coronavirus/</url>
+         </item>
+         <item>
+            <key>epaper</key>
+            <category>E-Paper</category>
+            <url>http://epaper.indianexpress.com/</url>
+         </item>
+         <item>
+            <key>explained</key>
+            <category>Explained</category>
+            <url>https://indianexpress.com/feedapi/section/explained/</url>
+         </item>
+         <item>
+            <key>world</key>
+            <category>World</category>
+            <url>https://indianexpress.com/feedapi/section/world/</url>
+         </item>
+         <item>
+            <key>india</key>
+            <category>India</category>
+            <url>https://indianexpress.com/feedapi/section/india/</url>
+         </item>
+         <item>
+            <key>videos</key>
+            <category>Videos News</category>
+            <url>https://indianexpress.com/feedapi/videos/news-video/</url>
+            <position>5</position>
+         </item>
+         <item>
+            <key>videos</key>
+            <category>Videos Entertainment</category>
+            <url>https://indianexpress.com/feedapi/videos/entertainment-video/</url>
+            <position>6</position>
+         </item>
+         <item>
+            <key>videos</key>
+            <category>Videos Sports</category>
+            <url>https://indianexpress.com/feedapi/videos/sports-video/</url>
+            <position>7</position>
+         </item>
+         <item>
+            <key>videos</key>
+            <category>Videos Technology</category>
+            <url>https://indianexpress.com/feedapi/videos/tech-video/</url>
+            <position>8</position>
+         </item>
+         <item>
+            <key>videos</key>
+            <category>Videos Lifestyle</category>
+            <url>https://indianexpress.com/feedapi/videos/lifestyle-video/</url>
+            <position>9</position>
+         </item>
+         <item>
+            <key>videos</key>
+            <category>Videos Auto</category>
+            <url>https://indianexpress.com/feedapi/videos/auto-video/</url>
+            <position>10</position>
+         </item>
+         <item>
+            <key>videos</key>
+            <category>Videos Idea Exchange</category>
+            <url>https://indianexpress.com/feedapi/videos/idea-exchange-video/</url>
+            <position>11</position>
+         </item>
+         <item>
+            <key>podcasts</key>
+            <category>Audio</category>
+            <url>https://indianexpress.com/feedapi/podcast/home/</url>
+         </item>
+         <item>
+            <key>express-data</key>
+            <category>Express Data</category>
+            <url>https://data.indianexpress.com#webview</url>
+         </item>
+         <item>
+            <key>opinion</key>
+            <category>Opinion</category>
+            <url>https://indianexpress.com/feedapi/section/opinion/</url>
+         </item>
+         <item>
+            <key>technology</key>
+            <category>Technology</category>
+            <url>https://indianexpress.com/feedapi/section/technology/</url>
+         </item>
+         <item>
+            <key>entertainment</key>
+            <category>Entertainment</category>
+            <url>https://indianexpress.com/feedapi/section/entertainment/</url>
+         </item>
+         <item>
+            <key>photos</key>
+            <category>Photo Latest</category>
+            <url>https://indianexpress.com/feedapi/photos/latest/</url>
+         </item>
+         <item>
+            <key>photos</key>
+            <category>Photo Entertainment</category>
+            <url>https://indianexpress.com/feedapi/photos/entertainment-gallery/</url>
+         </item>
+         <item>
+            <key>photos</key>
+            <category>Photo Sports</category>
+            <url>https://indianexpress.com/feedapi/photos/sports-gallery/</url>
+         </item>
+         <item>
+            <key>photos</key>
+            <category>Photo News</category>
+            <url>https://indianexpress.com/feedapi/photos/india-news/</url>
+         </item>
+         <item>
+            <key>photos</key>
+            <category>Photo Lifestyle</category>
+            <url>https://indianexpress.com/feedapi/photos/lifestyle-gallery/</url>
+         </item>
+         <item>
+            <key>photos</key>
+            <category>Photo Technology</category>
+            <url>https://indianexpress.com/feedapi/photos/technology-gallery/</url>
+         </item>
+         <item>
+            <key>photos</key>
+            <category>Photo Photo Archives</category>
+            <url>https://indianexpress.com/feedapi/photos/photo-archives/</url>
+         </item>
+         <item>
+            <key>sports</key>
+            <category>Sports</category>
+            <url>https://indianexpress.com/feedapi/section/sports/</url>
+         </item>
+         <item>
+            <key>lifestyle</key>
+            <category>Life Style</category>
+            <url>https://indianexpress.com/feedapi/section/lifestyle/</url>
+         </item>
+         <item>
+            <key>parenting</key>
+            <category>Parenting</category>
+            <url>https://indianexpress.com/feedapi/section/parenting/</url>
+         </item>
+         <item>
+            <key>delhi-confidential</key>
+            <category>Delhi Confidential</category>
+            <url>https://indianexpress.com/feedapi/search/delhi-confidential/</url>
+         </item>
+         <item>
+            <key>city</key>
+            <category>City Delhi</category>
+            <url>https://indianexpress.com/feedapi/section/delhi/</url>
+         </item>
+         <item>
+            <key>city</key>
+            <category>City Mumbai</category>
+            <url>https://indianexpress.com/feedapi/section/mumbai/</url>
+         </item>
+         <item>
+            <key>city</key>
+            <category>City Mumbai Confidential</category>
+            <url>https://indianexpress.com/feedapi/search/mumbai-confidential/</url>
+         </item>
+         <item>
+            <key>city</key>
+            <category>City Bangalore</category>
+            <url>https://indianexpress.com/feedapi/section/bangalore/</url>
+         </item>
+         <item>
+            <key>city</key>
+            <category>City Kolkata</category>
+            <url>https://indianexpress.com/feedapi/section/kolkata/</url>
+         </item>
+         <item>
+            <key>city</key>
+            <category>City Pune</category>
+            <url>https://indianexpress.com/feedapi/section/pune/</url>
+         </item>
+         <item>
+            <key>city</key>
+            <category>City Chandigarh</category>
+            <url>https://indianexpress.com/feedapi/section/chandigarh/</url>
+         </item>
+         <item>
+            <key>city</key>
+            <category>City Ahmedabad</category>
+            <url>https://indianexpress.com/feedapi/section/ahmedabad/</url>
+         </item>
+         <item>
+            <key>city</key>
+            <category>City Lucknow</category>
+            <url>https://indianexpress.com/feedapi/section/lucknow/</url>
+         </item>
+         <item>
+            <key>city</key>
+            <category>City Jaipur</category>
+            <url>https://indianexpress.com/feedapi/section/jaipur/</url>
+         </item>
+         <item>
+            <key>movie-review</key>
+            <category>Movie Reviews</category>
+            <url>https://indianexpress.com/feedapi/section/movie-review/</url>
+         </item>
+         <item>
+            <key>trending</key>
+            <category>Viral</category>
+            <url>https://indianexpress.com/feedapi/section/trending/</url>
+         </item>
+         <item>
+            <key>business</key>
+            <category>Business</category>
+            <url>https://indianexpress.com/feedapi/section/business/</url>
+         </item>
+         <item>
+            <key>education</key>
+            <category>Education</category>
+            <url>https://indianexpress.com/feedapi/section/education/</url>
+         </item>
+         <item>
+            <key>jobs</key>
+            <category>Jobs</category>
+            <url>https://indianexpress.com/feedapi/section/jobs/</url>
+         </item>
+         <item>
+            <key>express-sunday-eye</key>
+            <category>Sunday Eye</category>
+            <url>https://indianexpress.com/feedapi/section/express-sunday-eye/</url>
+         </item>
+         <item>
+            <key>northeast</key>
+            <category>North East</category>
+            <url>https://indianexpress.com/feedapi/section/north-east-india/</url>
+         </item>
+         <item>
+            <key>astro</key>
+            <category>Astrology</category>
+            <url>https://indianexpress.com/feedapi/astro/</url>
+         </item>
+         <item>
+            <key>cartoon-gallery</key>
+            <category>Cartoon Gallery</category>
+            <url>https://indianexpress.com/feedapi/photo-detail/6536590/0</url>
+         </item>
+         <item>
+            <key>saved-articles</key>
+            <category>Saved Articles</category>
+            <url>#</url>
+         </item>
+         <item>
+            <key>notification-center</key>
+            <category>Notification Centre</category>
+            <url>#</url>
+         </item>
+         <item>
+            <key>settings</key>
+            <category>Settings</category>
+            <url>#</url>
+         </item>
+         <item>
+            <key>breaking</key>
+            <category>Breaking</category>
+            <url>https://indianexpress.com/feedapi/multi-priority/2006351/0/</url>
+         </item>
+         <item>
+            <key>version</key>
+            <category>Version---android.36---ios.7.1</category>
+            <url>#</url>
+         </item>
+      </Content>
+      <searchUrl>https://indianexpress.com/feedapi/search/</searchUrl>
+      <photoDetailURL>https://indianexpress.com/feedapi/photo-detail/</photoDetailURL>
+      <singlePostURL>https://indianexpress.com/feedapi/singlepost/</singlePostURL>
+      <relatedPostURL>https://indianexpress.com/feedapi/relatedpost/</relatedPostURL>
+      <singleVideoURL>https://indianexpress.com/feedapi/singlevideos/</singleVideoURL>
+      <relatedVideosURL>https://indianexpress.com/feedapi/relatedvideos/</relatedVideosURL>
+      <singlePodcastURL>https://indianexpress.com/feedapi/singlepodcast/</singlePodcastURL>
+      <topStoriesPodcastURL>https://indianexpress.com/feedapi/podcast/top-stories/</topStoriesPodcastURL>
+      <NotificationCenterURL>https://snstest.indianexpress.com/ie/list.php</NotificationCenterURL>
+      <WidgetURL>https://indianexpress.com/feedapi/multi-priority/2006351-1929673/1/</WidgetURL>
+      <authorURL>https://indianexpress.com/feedapi/author/</authorURL>
+      <aboutUsURL>https://indianexpress.com/about-us/</aboutUsURL>
+      <privacyURL>https://indianexpress.com/privacy-policy/</privacyURL>
+      <termsURL>https://indianexpress.com/terms-and-conditions/</termsURL>
+      <customHomeUrl>https://indianexpress.com/feedapi/home-3/</customHomeUrl>
+      <customJsonHomeUrl>https://indianexpress.com/contentapi/212/home-5/</customJsonHomeUrl>
+      <compressedHomeUrl>https://socialapps.expressindia.com/app/ie/live/home-3.json.zip</compressedHomeUrl>
+      <visualStoriesEnable>YES</visualStoriesEnable>
+      <visualStoriesUrl>https://socialapps.expressindia.com/app/ie/instagram/instagram.json</visualStoriesUrl>
+      <appForceUpdate>YES</appForceUpdate>
+      <uaAPIUrl>https://ua.indianexpress.com/api/</uaAPIUrl>
+      <authorEmailText>Get updates from your favourite author on mail. Sign up here.</authorEmailText>
+      <authorsAPIUrl>https://indianexpress.com/wp-json/wp/v2/authors-to-follow</authorsAPIUrl>
+      <followTitle>Follow Authors</followTitle>
+      <followDesc>Follow authors for daily dose of news and updates from your favourite authors in your mail.</followDesc>
+      <myNewsTitle>FROM YOUR NETWORK</myNewsTitle>
+      <ssoBaseUrl>https://devaccounts.indianexpress.com/api/v2/sso/</ssoBaseUrl>
+      <ssoRedirectUrl>https://vipgo.indianexpress.com/express-plus/subscription-plan/</ssoRedirectUrl>
+      <ssoMyOrderURL>https://devaccounts.indianexpress.com/account/new/order/</ssoMyOrderURL>
+      <epaperSDKBaseUrl>https://app.indianexpress.com/api/epaper-sdk/</epaperSDKBaseUrl>
+      <epaperAPIKey>719f1aeda00d6642a6138e41cb8dfb27</epaperAPIKey>
+      <defaultPreviousIssueDays>60</defaultPreviousIssueDays>
+      <IE100IssueID>23812</IE100IssueID>
+      <sundayPlanId>38</sundayPlanId>
+      <showPlanButton>YES</showPlanButton>
+      <ePaperHighlight>YES</ePaperHighlight>
+      <ePaperStartTime>06:00 AM</ePaperStartTime>
+      <ePaperEndTime>11:59 AM</ePaperEndTime>
+      <ePaperServerTime>12:44 PM</ePaperServerTime>
+      <adsIOS>https://socialapps.expressindia.com/app/ie/data/ios-adsunit.json</adsIOS>
+      <adsAndroid>https://socialapps.expressindia.com/app/ie/data/android-adsunit.json</adsAndroid>
+      <adsLiteIOS>https://socialapps.expressindia.com/app/ie/data/ios-adsunit-lite.json</adsLiteIOS>
+      <adsLiteAndroid>https://socialapps.expressindia.com/app/ie/data/android-adsunit-lite.json</adsLiteAndroid>
+      <top-menu-links>
+         <item>
+            <key>daily-brief</key>
+            <category>Daily Brief</category>
+            <url>https://indianexpress.com/feedapi/multi-priority/6248587/0/</url>
+         </item>
+         <item>
+            <key>india</key>
+            <category>India</category>
+            <url>https://indianexpress.com/feedapi/section/india/</url>
+         </item>
+         <item>
+            <key>opinion</key>
+            <category>Opinion</category>
+            <url>https://indianexpress.com/feedapi/section/opinion/</url>
+         </item>
+         <item>
+            <key>explained</key>
+            <category>Explained</category>
+            <url>https://indianexpress.com/feedapi/section/explained/</url>
+         </item>
+         <item>
+            <key>entertainment</key>
+            <category>Entertainment</category>
+            <url>https://indianexpress.com/feedapi/section/entertainment/</url>
+         </item>
+         <item>
+            <key>sports</key>
+            <category>Sports</category>
+            <url>https://indianexpress.com/feedapi/section/sports/</url>
+         </item>
+         <item>
+            <key>lifestyle</key>
+            <category>Lifestyle</category>
+            <url>https://indianexpress.com/feedapi/section/lifestyle/</url>
+         </item>
+         <item>
+            <key>world</key>
+            <category>World</category>
+            <url>https://indianexpress.com/feedapi/section/world/</url>
+         </item>
+         <item>
+            <key>technology</key>
+            <category>Technology</category>
+            <url>https://indianexpress.com/feedapi/section/technology/</url>
+         </item>
+         <item>
+            <key>viral</key>
+            <category>Viral</category>
+            <url>https://indianexpress.com/feedapi/section/trending/</url>
+         </item>
+         <item>
+            <key>videos</key>
+            <category>Videos</category>
+            <url>https://indianexpress.com/feedapi/videos/latest/</url>
+         </item>
+         <item>
+            <key>photos</key>
+            <category>Photos</category>
+            <url>https://indianexpress.com/feedapi/photos/latest/</url>
+         </item>
+         <item>
+            <key>audio</key>
+            <category>Audio</category>
+            <url>https://indianexpress.com/feedapi/podcast/home/</url>
+         </item>
+      </top-menu-links>
+      <home_breaking>homebreaking</home_breaking>
+      <home_feed_sequence>homebreaking,topstories,mustread,latestnews,opinion,coronavirussection,videos,entertainment,photos,explained,sports,podcasts,technology,lifestyle,trending,city,india,northeast,world,education,parenting</home_feed_sequence>
+      <default_topics>homebreaking,topstories,mustread,latestnews</default_topics>
+      <hpap>topstories,latestnews</hpap>
+      <lpap>7</lpap>
+      <ap1>2</ap1>
+      <ap2>5</ap2>
+      <customise_home_feed>opinion,technology,videos,entertainment,photos,podcasts,sports,explained,city,lifestyle,trending,northeast,india,education,world,parenting,coronavirussection</customise_home_feed>
+      <Ad>
+         <banner-ads>
+            <Adtype>IE_APP_ArticlePages_300x250</Adtype>
+            <banner-id>/1050432/www.indianexpress.com/IE_APP_ArticlePages_300x250</banner-id>
+         </banner-ads>
+         <banner-ads>
+            <Adtype>IE_APP_ArticlePages_300x250_2</Adtype>
+            <banner-id>OFF</banner-id>
+         </banner-ads>
+         <banner-ads>
+            <Adtype>IE_APP_ArticlePages_300x250_3</Adtype>
+            <banner-id>OFF</banner-id>
+         </banner-ads>
+         <banner-ads>
+            <Adtype>IE_APP_ArticlePages_Masthead</Adtype>
+            <banner-id>/1050432/www.indianexpress.com/IE_APP_ArticlePages_Masthead</banner-id>
+         </banner-ads>
+         <banner-ads>
+            <Adtype>IE_APP_HP_Masthead</Adtype>
+            <banner-id>/1050432/www.indianexpress.com/IE_APP_HP_Masthead</banner-id>
+         </banner-ads>
+         <banner-ads>
+            <Adtype>IE_APP_Section_HP_Masthead</Adtype>
+            <banner-id>/1050432/www.indianexpress.com/IE_APP_Section_HP_Masthead</banner-id>
+         </banner-ads>
+      </Ad>
+      <Version>
+         <value>3</value>
+      </Version>
+   </feeds>
+</rss>
