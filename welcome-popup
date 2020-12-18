@@ -5,12 +5,10 @@
    "items":[
       {
          "Benefit":"Access to ePaper",
-         "isNew":"no",
          "newText":""
       },
       {
          "Benefit":"Ad-Lite: Reduced ads across app",
-         "isNew":"yes",
          "newText":"(New)"
       }
    ]
