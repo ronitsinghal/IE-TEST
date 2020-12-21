@@ -1,0 +1,268 @@
+﻿{
+  "ads_items": [
+    {
+      "key": "home",
+      "hpt": "/1050432/www.indianexpress.com/IE_APP_HOME_HP_TopHeader_IOS_320x50",
+      "hpm": "off",
+      "hpb": "off",
+      "hps": "/1050432/www.indianexpress.com/IE_APP_HOME_HP_TopHeader_IOS_320x50",
+      "ast": "",
+      "asm": "",
+      "asb": "",
+      "ass": ""
+    },
+    {
+      "key": "brief",
+      "hpt": "off",
+      "hpm": "",
+      "hpb": "",
+      "hps": "",
+      "ast": "",
+      "asm": "",
+      "asb": "",
+      "ass": ""
+    },
+    {
+      "key": "india",
+      "hpt": "/1050432/www.indianexpress.com/IE_APP_INDIA_HP_TopHeader_IOS_320x50",
+      "hpm": "off",
+      "hpb": "off",
+      "hps": "off",
+      "ast": "/1050432/www.indianexpress.com/IE_APP_INDIA_AS_TopHeader_IOS_320x50",
+      "asm": "off",
+      "asb": "off",
+      "ass": "off"
+    },
+    {
+      "key": "election",
+      "hpt": "/1050432/www.indianexpress.com/IE_APP_Elections_HP_TopHeader_IOS_320x50",
+      "hpm": "off",
+      "hpb": "off",
+      "hps": "off",
+      "ast": "/1050432/www.indianexpress.com/IE_APP_Elections_AS_TopHeader_IOS_320x50",
+      "asm": "off",
+      "asb": "off",
+      "ass": "off"
+    },
+    {
+      "key": "world",
+      "hpt": "/1050432/www.indianexpress.com/IE_APP_World_HP_TopHeader_IOS_320x50",
+      "hpm": "off",
+      "hpb": "off",
+      "hps": "off",
+      "ast": "/1050432/www.indianexpress.com/IE_APP_World_AS_TopHeader_IOS_320x50",
+      "asm": "off",
+      "asb": "off",
+      "ass": "off"
+    },
+    {
+      "key": "videos",
+      "hpt": "/1050432/www.indianexpress.com/IE_APP_Videos_HP_TopHeader_IOS_320x50",
+      "hpm": "off",
+      "hpb": "off",
+      "hps": "off",
+      "ast": "/1050432/www.indianexpress.com/IE_APP_Videos_AS_TopHeader_IOS_320x50",
+      "asm": "off",
+      "asb": "off",
+      "ass": "off"
+    },
+    {
+      "key": "audio",
+      "hpt": "/1050432/www.indianexpress.com/IE_APP_Audio_HP_TopHeader_IOS_320x50",
+      "hpm": "off",
+      "hpb": "off",
+      "hps": "off",
+      "ast": "/1050432/www.indianexpress.com/IE_APP_Audio_AS_TopHeader_IOS_320x50",
+      "asm": "off",
+      "asb": "off",
+      "ass": "off"
+    },
+    {
+      "key": "ExpressData",
+      "hpt": "/1050432/www.indianexpress.com/IE_APP_ExpressData_HP_TopHeader_IOS_320x50",
+      "hpm": "off",
+      "hpb": "off",
+      "hps": "off",
+      "ast": "/1050432/www.indianexpress.com/IE_APP_ExpressData_AS_TopHeader_IOS_320x50",
+      "asm": "off",
+      "asb": "off",
+      "ass": "off"
+    },
+    {
+      "key": "opinion",
+      "hpt": "/1050432/www.indianexpress.com/IE_APP_Opinion_HP_TopHeader_IOS_320x50",
+      "hpm": "off",
+      "hpb": "off",
+      "hps": "off",
+      "ast": "/1050432/www.indianexpress.com/IE_APP_Opinion_AS_TopHeader_IOS_320x50",
+      "asm": "off",
+      "asb": "off",
+      "ass": "off"
+    },
+    {
+      "key": "technology",
+      "hpt": "/1050432/www.indianexpress.com/IE_APP_Technology_HP_TopHeader_IOS_320x50",
+      "hpm": "off",
+      "hpb": "off",
+      "hps": "off",
+      "ast": "/1050432/www.indianexpress.com/IE_APP_Technology_AS_TopHeader_IOS_320x50",
+      "asm": "off",
+      "asb": "off",
+      "ass": "off"
+    },
+    {
+      "key": "entertainment",
+      "hpt": "/1050432/www.indianexpress.com/IE_APP_ENT_HP_TopHeader_IOS_320x50",
+      "hpm": "off",
+      "hpb": "off",
+      "hps": "off",
+      "ast": "/1050432/www.indianexpress.com/IE_APP_ENT_AS_TopHeader_IOS_320x50",
+      "asm": "off",
+      "asb": "off",
+      "ass": "off"
+    },
+    {
+      "key": "photos",
+      "hpt": "/1050432/www.indianexpress.com/IE_APP_Photo_HP_TopHeader_IOS_320x50",
+      "hpm": "off",
+      "hpb": "off",
+      "hps": "off",
+      "ast": "/1050432/www.indianexpress.com/IE_APP_Photo_AS_TopHeader_IOS_320x50",
+      "asm": "off",
+      "asb": "off",
+      "ass": "off"
+    },
+    {
+      "key": "sports",
+      "hpt": "/1050432/www.indianexpress.com/IE_APP_Sports_HP_TopHeader_IOS_320x50",
+      "hpm": "off",
+      "hpb": "off",
+      "hps": "off",
+      "ast": "/1050432/www.indianexpress.com/IE_APP_Sports_AS_TopHeader_IOS_320x50",
+      "asm": "off",
+      "asb": "off",
+      "ass": "off"
+    },
+    {
+      "key": "lifestyle",
+      "hpt": "/1050432/www.indianexpress.com/IE_APP_LifeStyle_HP_TopHeader_IOS_320x50",
+      "hpm": "off",
+      "hpb": "off",
+      "hps": "off",
+      "ast": "/1050432/www.indianexpress.com/IE_APP_LifeStyle_AS_TopHeader_IOS_320x50",
+      "asm": "off",
+      "asb": "off",
+      "ass": "off"
+    },
+    {
+      "key": "parenting",
+      "hpt": "/1050432/www.indianexpress.com/IE_APP_Parenting_HP_TopHeader_IOS_320x50",
+      "hpm": "off",
+      "hpb": "off",
+      "hps": "off",
+      "ast": "/1050432/www.indianexpress.com/IE_APP_Parenting_AS_TopHeader_IOS_320x50",
+      "asm": "off",
+      "asb": "off",
+      "ass": "off"
+    },
+    {
+      "key": "delhi-confidential",
+      "hpt": "/1050432/www.indianexpress.com/IE_APP_DelhiConfidential_HP_TopHeader_IOS_320x50",
+      "hpm": "off",
+      "hpb": "off",
+      "hps": "off",
+      "ast": "/1050432/www.indianexpress.com/IE_APP_DelhiConfidential_AS_TopHeader_IOS_320x50",
+      "asm": "off",
+      "asb": "off",
+      "ass": "off"
+    },
+    {
+      "key": "city",
+      "hpt": "/1050432/www.indianexpress.com/IE_APP_CityNews_HP_TopHeader_IOS_320x50",
+      "hpm": "off",
+      "hpb": "off",
+      "hps": "off",
+      "ast": "/1050432/www.indianexpress.com/IE_APP_CityNews_AS_TopHeader_IOS_320x50",
+      "asm": "off",
+      "asb": "off",
+      "ass": "off"
+    },
+    {
+      "key": "movie-review",
+      "hpt": "/1050432/www.indianexpress.com/IE_APP_MovieReviews_HP_TopHeader_IOS_320x50",
+      "hpm": "off",
+      "hpb": "off",
+      "hps": "off",
+      "ast": "/1050432/www.indianexpress.com/IE_APP_MovieReviews_AS_TopHeader_IOS_320x50",
+      "asm": "off",
+      "asb": "off",
+      "ass": "off"
+    },
+    {
+      "key": "business",
+      "hpt": "/1050432/www.indianexpress.com/IE_APP_Business_HP_TopHeader_IOS_320x50",
+      "hpm": "off",
+      "hpb": "off",
+      "hps": "off",
+      "ast": "/1050432/www.indianexpress.com/IE_APP_Business_AS_TopHeader_IOS_320x50",
+      "asm": "off",
+      "asb": "off",
+      "ass": "off"
+    },
+    {
+      "key": "education",
+      "hpt": "/1050432/www.indianexpress.com/IE_APP_Education_HP_TopHeader_IOS_320x50",
+      "hpm": "off",
+      "hpb": "off",
+      "hps": "off",
+      "ast": "/1050432/www.indianexpress.com/IE_APP_Education_AS_TopHeader_IOS_320x50",
+      "asm": "off",
+      "asb": "off",
+      "ass": "off"
+    },
+    {
+      "key": "jobs",
+      "hpt": "/1050432/www.indianexpress.com/IE_APP_Jobs_HP_TopHeader_IOS_320x50",
+      "hpm": "off",
+      "hpb": "off",
+      "hps": "off",
+      "ast": "/1050432/www.indianexpress.com/IE_APP_Jobs_AS_TopHeader_IOS_320x50",
+      "asm": "off",
+      "asb": "off",
+      "ass": "off"
+    },
+    {
+      "key": "new-york-times",
+      "hpt": "/1050432/www.indianexpress.com/IE_APP_NewYorkTimes_HP_TopHeader_IOS_320x50",
+      "hpm": "off",
+      "hpb": "off",
+      "hps": "off",
+      "ast": "/1050432/www.indianexpress.com/IE_APP_NewYorkTimes_AS_TopHeader_IOS_320x50",
+      "asm": "off",
+      "asb": "off",
+      "ass": "off"
+    },
+    {
+      "key": "astro",
+      "hpt": "/1050432/www.indianexpress.com/IE_APP_Astrology_HP_TopHeader_IOS_320x50",
+      "hpm": "off",
+      "hpb": "off",
+      "hps": "off",
+      "ast": "/1050432/www.indianexpress.com/IE_APP_Astrology_AS_TopHeader_IOS_320x50",
+      "asm": "off",
+      "asb": "off",
+      "ass": "off"
+    },
+    {
+      "key": "other",
+      "hpt": "/1050432/www.indianexpress.com/IE_APP_OTH_HP_TopHeader_IOS_320x50",
+      "hpm": "off",
+      "hpb": "off",
+      "hps": "off",
+      "ast": "/1050432/www.indianexpress.com/IE_APP_OTH_AS_TopHeader_IOS_320x50",
+      "asm": "off",
+      "asb": "off",
+      "ass": "off"
+    }
+  ]
+}
