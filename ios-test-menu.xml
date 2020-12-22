@@ -323,7 +323,7 @@
 		<adsIOS>https://socialapps.expressindia.com/app/ie/data/ios-adsunit.json?ts=1608166496</adsIOS>
 		<adsAndroid>https://socialapps.expressindia.com/app/ie/data/android-adsunit.json?ts=1608166496</adsAndroid>
 		<adsLiteIOS>https://raw.githubusercontent.com/ronitsinghal/IE-TEST/main/ios-adsunit-lite.json?ts=1608166496</adsLiteIOS>
-		<adsLiteAndroid>https://raw.githubusercontent.com/ronitsinghal/IE-TEST/main/ios-adsunit-lite.json?ts=1608166496</adsLiteAndroid>
+		<adsLiteAndroid>https://raw.githubusercontent.com/ronitsinghal/IE-TEST/main/ios-adsunit-lite.json?ts=1608166596</adsLiteAndroid>
 		<adsHuawei>https://socialapps.expressindia.com/app/ie/data/huawei-adsunit.json?ts=1608166496</adsHuawei>
 		<adLiteWelcomePopup>https://socialapps.expressindia.com/app/ie/data/adlite-welcome-popup.json?ts=1608166496</adLiteWelcomePopup>
 		<cssIOS>https://socialapps.expressindia.com/app/ie/css/ios-story.css</cssIOS>
