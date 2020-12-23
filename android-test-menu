@@ -319,11 +319,11 @@
       <adsLiteIOS>https://socialapps.expressindia.com/app/ie/data/ios-adsunit-lite.json?ts=1608166496</adsLiteIOS>
       <adsLiteAndroid>https://socialapps.expressindia.com/app/ie/data/android-adsunit-lite.json?ts=1608166496</adsLiteAndroid>
       <adsHuawei>https://socialapps.expressindia.com/app/ie/data/huawei-adsunit.json?ts=1608166496</adsHuawei>
-      <adLiteWelcomePopup>https://socialapps.expressindia.com/app/ie/data/adlite-welcome-popup.json?ts=1608166496</adLiteWelcomePopup>
+      <adLiteWelcomePopup>https://raw.githubusercontent.com/ronitsinghal/IE-TEST/main/welcome-popup</adLiteWelcomePopup>
       <cssIOS>https://socialapps.expressindia.com/app/ie/css/ios-story.css</cssIOS>
       <cssIOSNight>https://socialapps.expressindia.com/app/ie/css/ios-night-story.css</cssIOSNight>
       <cssUpdateTime>1606987800</cssUpdateTime>
-      <adLiteEnable>NO</adLiteEnable>
+      <adLiteEnable>YES</adLiteEnable>
       <top-menu-links>
          <item>
             <key>daily-brief</key>
