@@ -12,6 +12,10 @@
 		},
 		{
 			"Benefit": "Ad free app",
+			"newText": ""
+		},
+		{
+			"Benefit": "Ad free app",
 			"newText": "(New)"
 		}
 	]
