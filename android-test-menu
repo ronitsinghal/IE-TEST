@@ -290,7 +290,7 @@
       <privacyURL>https://indianexpress.com/privacy-policy/</privacyURL>
       <termsURL>https://indianexpress.com/terms-and-conditions/</termsURL>
       <customHomeUrl>https://indianexpress.com/feedapi/home-3/</customHomeUrl>
-      <customJsonHomeUrl>https://indianexpress.com/contentapi/212/home-5/</customJsonHomeUrl>
+      <customJsonHomeUrl>https://vipgo.indianexpress.com/contentapi/212/home-5/</customJsonHomeUrl>
       <compressedHomeUrl>https://socialapps.expressindia.com/app/ie/live/home-3.json.zip</compressedHomeUrl>
       <visualStoriesEnable>YES</visualStoriesEnable>
       <visualStoriesUrl>https://socialapps.expressindia.com/app/ie/instagram/instagram.json</visualStoriesUrl>
