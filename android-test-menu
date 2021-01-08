@@ -429,12 +429,15 @@
          <signup_title>SignUp to read this story</signup_title>
          <signup_desc>SignUp for Express Plus to get quick access to Indian Express exclusive and premium stories</signup_desc>
          <already_member>Already an Express Plus member?</already_member>
-         <login_title>Already an Express Plus member? SignIn to read this story</login_title>
+         <login_title>Already an Express Plus member?</login_title>
+         <login_desc>Please enter your registered email or phone number to sign in and read the story</login_desc>
          <not_member>Don't have an account?</not_member>
-         <otp_title>OTP verification</otp_title>
-         <otp_desc>Use the OTP sent on your registered email/mobile</otp_desc>
-         <fp_title>Forgot Password</fp_title>
-         <fp_desc>Enter the email address/phone number associated with your account and we'll send an OTP for verification.</fp_desc>
+         <otp_title>Enter OTP</otp_title>
+         <otp_desc>Please enter the OTP sent on your email/mobile and setup your password to continue</otp_desc>
+         <otp_issue>Having issues with OTP?</otp_issue>
+         <fp_title>Forgot Password?</fp_title>
+         <fp_desc>Enter the email address or phone number and we will send you an OTP to login</fp_desc>
+         <have_credentials>Remember your express plus credentials?</have_credentials>
       </ui_string>
       <Version>
          <value>3</value>
