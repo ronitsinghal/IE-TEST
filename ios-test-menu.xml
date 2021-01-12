@@ -440,7 +440,7 @@
          		<not_member>Don't have an account?</not_member>
          		<otp_title>Enter OTP</otp_title>
          		<otp_desc>Please enter the OTP sent on your email/mobile and setup your password to continue</otp_desc>
-         		<otp_issue>To sign in using other channel</otp_issue>
+         		<otp_issue>Having issues with OTP?</otp_issue>
          		<fp_title>Forgot Password?</fp_title>
          		<fp_desc>Enter the email address or phone number and we will send you an OTP to login</fp_desc>
          		<have_credentials>Remember your express plus credentials?</have_credentials>
