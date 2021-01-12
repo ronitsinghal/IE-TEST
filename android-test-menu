@@ -436,10 +436,14 @@
          <not_member>Don't have an account?</not_member>
          <otp_title>Enter OTP</otp_title>
          <otp_desc>Please enter the OTP sent on your email/mobile and setup your password to continue</otp_desc>
-         <otp_issue>To sign in using other channel</otp_issue>
+         <otp_issue>Having issues with OTP?</otp_issue>
          <fp_title>Forgot Password?</fp_title>
          <fp_desc>Enter the email address or phone number and we will send you an OTP to login</fp_desc>
          <have_credentials>Remember your express plus credentials?</have_credentials>
+			<thanks_signup_title>Thank you for registering with The Indian Express</thanks_signup_title>
+			<thanks_signup_desc>You now have the access to the Indian Express exclusive and premium stories</thanks_signup_desc>
+			<thanks_signin_title>Welcome back</thanks_signin_title>
+			<thanks_signin_desc>As an Express Plus member you have accesss to the premium and exclusive stories from Indian Express</thanks_signin_desc>
       </ui_string>
       <Version>
          <value>3</value>
