@@ -30,7 +30,7 @@
          <item>
             <key>india</key>
             <category>India</category>
-            <url>https://indianexpress.com/feedapi/section/india/</url>
+            <url>https://vipgo.indianexpress.com/feedapi/section/india/</url>
          </item>
          <item>
             <key>videos</key>
@@ -333,7 +333,7 @@
          <item>
             <key>india</key>
             <category>India</category>
-            <url>https://indianexpress.com/feedapi/section/india/</url>
+            <url>https://vipgo.indianexpress.com/feedapi/section/india/</url>
          </item>
          <item>
             <key>opinion</key>
