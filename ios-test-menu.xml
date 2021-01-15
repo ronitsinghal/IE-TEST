@@ -432,6 +432,8 @@
 			</banner-ads>
 		</Ad>
 		<ui_string>
+			 <ios_premium_margin>150</ios_premium_margin>
+         <premium_text>Premium</premium_text>
          		<signup_title>SignUp to read this story</signup_title>
          		<signup_desc>SignUp for Express Plus to get quick access to Indian Express exclusive and premium stories</signup_desc>
          		<already_member>Already an Express Plus member?</already_member>
