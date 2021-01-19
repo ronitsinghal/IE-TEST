@@ -426,24 +426,24 @@
          </banner-ads>
       </Ad>
       <ui_string>
-         <premium_margin>150</premium_margin>
-         <premium_text>Premium</premium_text>
-         <signup_title>SignUp to read this story</signup_title>
-         <signup_desc>SignUp for Express Plus to get quick access to Indian Express exclusive and premium stories</signup_desc>
-         <already_member>Already an Express Plus member?</already_member>
-         <login_title>Already an Express Plus member?</login_title>
-         <login_desc>Please enter your registered email or phone number to sign in and read the story</login_desc>
-         <not_member>Don't have an account?</not_member>
-         <otp_title>Enter OTP</otp_title>
-         <otp_desc>Please enter the OTP sent on your email/mobile and setup your password to continue</otp_desc>
-         <otp_issue>Having issues with OTP?</otp_issue>
-         <fp_title>Forgot Password?</fp_title>
-         <fp_desc>Enter the email address or phone number and we will send you an OTP to login</fp_desc>
-         <have_credentials>Remember your express plus credentials?</have_credentials>
-			<thanks_signup_title>Thank you for registering with The Indian Express</thanks_signup_title>
-			<thanks_signup_desc>You now have the access to the Indian Express exclusive and premium stories</thanks_signup_desc>
-			<thanks_signin_title>Welcome back</thanks_signin_title>
-			<thanks_signin_desc>As an Express Plus member you have accesss to the premium and exclusive stories from Indian Express</thanks_signin_desc>
+         	<premium_margin>250</premium_margin>
+         	<premium_text>Premium Plus</premium_text>
+         	<signup_title>To read this story, sign up here</signup_title>
+         	<signup_desc>Sign up to get quick access to Indian Express exclusive and premium stories</signup_desc>
+         	<already_member>Already have an account?</already_member>
+         	<login_title>Already have an account?</login_title>
+         	<login_desc>Please enter your registered email or phone number to sign in and read the story</login_desc>
+         	<not_member>Don't have an account?</not_member>
+         	<otp_title>Enter OTP</otp_title>
+         	<otp_desc>Please enter the OTP sent on your email/mobile and setup your password to continue</otp_desc>
+         	<otp_issue>Having issues with OTP?</otp_issue>
+         	<fp_title>Forgot Password?</fp_title>
+         	<fp_desc>Enter the email address or phone number and we will send you an OTP to login</fp_desc>
+         	<have_credentials>Remember your credentials?</have_credentials>
+		<thanks_signup_title>Thank you for registering with The Indian Express</thanks_signup_title>
+		<thanks_signup_desc>You now have the access to the Indian Express exclusive and premium stories</thanks_signup_desc>
+		<thanks_signin_title>Welcome back</thanks_signin_title>
+	        <thanks_signin_desc>As a member you have accesss to the premium and exclusive stories from Indian Express</thanks_signin_desc>
       </ui_string>
       <Version>
          <value>3</value>
