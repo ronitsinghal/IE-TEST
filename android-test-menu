@@ -277,7 +277,7 @@
     </Content>
     <searchUrl>https://vipgo.indianexpress.com/feedapi/search/</searchUrl>
     <photoDetailURL>https://vipgo.indianexpress.com/feedapi/photo-detail/</photoDetailURL>
-    <singlePostURL>https://vipgo.indianexpress.com/feedapi/singlepost/</singlePostURL>
+    <singlePostURL>https://indianexpress.com/feedapi/singlepost/</singlePostURL>
     <relatedPostURL>https://vipgo.indianexpress.com/feedapi/relatedpost/</relatedPostURL>
     <singleVideoURL>https://vipgo.indianexpress.com/feedapi/singlevideos/</singleVideoURL>
     <relatedVideosURL>https://vipgo.indianexpress.com/feedapi/relatedvideos/</relatedVideosURL>
