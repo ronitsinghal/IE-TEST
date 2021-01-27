@@ -324,7 +324,7 @@
     <cssIOSNight>https://socialapps.expressindia.com/app/ie/css/ios-night-story.css</cssIOSNight>
     <cssUpdateTime>1609110024</cssUpdateTime>
     <adLiteEnable>NO</adLiteEnable>
-    <taboolaEnable>YES</taboolaEnable>
+    <taboolaEnable>NO</taboolaEnable>
     <top-menu-links>
         <item>
             <key>daily-brief</key>
