@@ -317,9 +317,9 @@
     <followTitle>Follow Authors</followTitle>
     <followDesc>Follow authors for daily dose of news and updates from your favourite authors in your mail.</followDesc>
     <myNewsTitle>FROM YOUR NETWORK</myNewsTitle>
-    <ssoBaseUrl>https://accounts.indianexpress.com/api/v2/sso/</ssoBaseUrl>
+    <ssoBaseUrl>https://devaccounts.indianexpress.com/api/v2/sso/</ssoBaseUrl>
     <ssoRedirectUrl>https://indianexpress.com/express-plus/subscription-plan/</ssoRedirectUrl>
-    <ssoMyOrderURL>https://accounts.indianexpress.com/account/new/order/</ssoMyOrderURL>
+    <ssoMyOrderURL>https://devaccounts.indianexpress.com/account/new/order/</ssoMyOrderURL>
     <epaperSDKBaseUrl>https://app.indianexpress.com/api/epaper-sdk/</epaperSDKBaseUrl>
     <epaperAPIKey>719f1aeda00d6642a6138e41cb8dfb27</epaperAPIKey>
     <defaultPreviousIssueDays>60</defaultPreviousIssueDays>
