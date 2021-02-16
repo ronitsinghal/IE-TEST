@@ -295,7 +295,7 @@
     <visualStoriesEnable>YES</visualStoriesEnable>
     <visualStoriesUrl>https://socialapps.expressindia.com/app/ie/instagram/instagram.json</visualStoriesUrl>
     <appForceUpdate>NO</appForceUpdate>
-    <uaAPIUrl>https://ua.indianexpress.com/api/</uaAPIUrl>
+    <uaAPIUrl>https://devua.indianexpress.com/api/</uaAPIUrl>
     <authorEmailText> Get updates from your favourite author on mail. Sign up here.</authorEmailText>
     <authorsAPIUrl>https://vipgo.indianexpress.com/wp-json/wp/v2/authors-to-follow</authorsAPIUrl>
     <followTitle>Follow Authors</followTitle>
