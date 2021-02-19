@@ -305,7 +305,7 @@
 <visualStoriesUrl>https://socialapps.expressindia.com/app/ie/instagram/instagram.json</visualStoriesUrl>
 <appForceUpdate>NO</appForceUpdate>
 <uaAPIUrl>https://ua.indianexpress.com/api/</uaAPIUrl>
-<uaGeoIpUrl>https://raw.githubusercontent.com/ronitsinghal/IE-TEST/main/geoapi</uaGeoIpUrl>
+<uaGeoIpUrl>https://raw.githubusercontent.com/ronitsinghal/IE-TEST/main/geoapi.json</uaGeoIpUrl>
 <authorEmailText> Get updates from your favourite author on mail. Sign up here.</authorEmailText>
 <authorsAPIUrl>https://indianexpress.com/wp-json/wp/v2/authors-to-follow</authorsAPIUrl>
 <followTitle>Follow Authors</followTitle>
