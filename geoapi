@@ -1,0 +1,17 @@
+{
+	"ip": "106.210.124.174",
+	"crcId": 0,
+	"postalId": 0,
+	"cityId": 1261481,
+	"city": "New Delhi",
+	"stateId": 1273293,
+	"state": "National Capital Territory of Delhi",
+	"stateIsoCode": "DL",
+	"countryId": 1269750,
+	"country": "India",
+	"countryIsoCode": "IN",
+	"latitude": "28.6327",
+	"longitude": "77.2198",
+	"postalCode": "110001",
+	"addedDate": "2021-02-19T06:33:10.508+0000"
+}
