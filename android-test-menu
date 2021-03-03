@@ -346,66 +346,85 @@
             <key>daily-brief</key>
             <category>Daily Brief</category>
             <url>https://indianexpress.com/feedapi/multi-priority/6248587/0/</url>
+	    <isMultiEdition>no</isMultiEdition>
+        </item>
+	<item>
+            <key>election</key>
+            <category>Election Coverage</category>
+            <url></url>
+	    <isMultiEdition>yes</isMultiEdition>
         </item>
         <item>
             <key>india</key>
             <category>India</category>
             <url>https://indianexpress.com/feedapi/section/india/</url>
+	    <isMultiEdition>no</isMultiEdition>
         </item>
         <item>
             <key>opinion</key>
             <category>Opinion</category>
             <url>https://indianexpress.com/feedapi/section/opinion/</url>
+	    <isMultiEdition>no</isMultiEdition>
         </item>
         <item>
             <key>explained</key>
             <category>Explained</category>
             <url>https://indianexpress.com/feedapi/section/explained/</url>
+	    <isMultiEdition>no</isMultiEdition>
         </item>
         <item>
             <key>entertainment</key>
             <category>Entertainment</category>
             <url>https://indianexpress.com/feedapi/section/entertainment/</url>
+	    <isMultiEdition>no</isMultiEdition>
         </item>
         <item>
             <key>sports</key>
             <category>Sports</category>
             <url>https://indianexpress.com/feedapi/section/sports/</url>
+	    <isMultiEdition>no</isMultiEdition>
         </item>
         <item>
             <key>lifestyle</key>
             <category>Lifestyle</category>
             <url>https://indianexpress.com/feedapi/section/lifestyle/</url>
+	    <isMultiEdition>no</isMultiEdition>
         </item>
         <item>
             <key>world</key>
             <category>World</category>
             <url>https://indianexpress.com/feedapi/section/world/</url>
+	    <isMultiEdition>no</isMultiEdition>
         </item>
         <item>
             <key>technology</key>
             <category>Technology</category>
             <url>https://indianexpress.com/feedapi/section/technology/</url>
+	    <isMultiEdition>no</isMultiEdition>
         </item>
         <item>
             <key>viral</key>
             <category>Viral</category>
             <url>https://indianexpress.com/feedapi/section/trending/</url>
+	    <isMultiEdition>no</isMultiEdition>
         </item>
         <item>
             <key>videos</key>
             <category>Videos</category>
             <url>https://indianexpress.com/feedapi/videos/latest/</url>
+	    <isMultiEdition>no</isMultiEdition>
         </item>
         <item>
             <key>photos</key>
             <category>Photos</category>
             <url>https://indianexpress.com/feedapi/photos/latest/</url>
+	    <isMultiEdition>no</isMultiEdition>
         </item>
         <item>
             <key>audio</key>
             <category>Audio</category>
             <url>https://indianexpress.com/feedapi/podcast/home/</url>
+	    <isMultiEdition>no</isMultiEdition>
         </item>
     </top-menu-links>
     <home_breaking>homebreaking</home_breaking>
