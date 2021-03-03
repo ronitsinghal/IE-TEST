@@ -7,7 +7,7 @@ view_type: "news",
 name: "Bangla Election",
 title: "Bangla Election",
 footerNote: "",
-link: "",
+link: "https://indianexpress.com/feedapi/section/latest/",
 items: [
 {
 id: "7212446",
