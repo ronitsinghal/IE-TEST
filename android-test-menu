@@ -321,6 +321,7 @@
     <evolokSocialRedirectUrl>https://vipgo.indianexpress.com/social-redirect/</evolokSocialRedirectUrl>
     <evolokNotifierUrl>https://ieo.uat.evolok.net/acd/api/3.0/widgets/templates/notifier</evolokNotifierUrl>
     <evolokGetToken>https://devaccounts.indianexpress.com/api/v2/sso/user/evtkn/</evolokGetToken>
+    <evolokSSORedirectUrl>https://vipgo.indianexpress.com/subscribe/</evolokSSORedirectUrl>
     <useEvolokSSO>yes</useEvolokSSO>
     <uaAPIUrl>https://ua.indianexpress.com/api/</uaAPIUrl>
     <uaGeoIpUrl>https://ua.indianexpress.com/api/geoip/resolve</uaGeoIpUrl>
@@ -330,7 +331,7 @@
     <followDesc>Follow authors for daily dose of news and updates from your favourite authors in your mail.</followDesc>
     <myNewsTitle>FROM YOUR NETWORK</myNewsTitle>
     <ssoBaseUrl>https://devaccounts.indianexpress.com/api/v2/sso/</ssoBaseUrl>
-    <ssoRedirectUrl>https://vipgo.indianexpress.com/subscribe/</ssoRedirectUrl>
+    <ssoRedirectUrl>https://indianexpress.com/express-plus/subscription-plan/</ssoRedirectUrl>
     <ssoMyOrderURL>https://devaccounts.indianexpress.com/account/new/order/</ssoMyOrderURL>
     <epaperSDKBaseUrl>https://app.indianexpress.com/api/epaper-sdk/</epaperSDKBaseUrl>
     <epaperAPIKey>719f1aeda00d6642a6138e41cb8dfb27</epaperAPIKey>
