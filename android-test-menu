@@ -323,7 +323,7 @@
     <evolokGetToken>https://devaccounts.indianexpress.com/api/v2/sso/user/evtkn/</evolokGetToken>
     <evolokSSORedirectUrl>https://vipgo.indianexpress.com/subscribe/</evolokSSORedirectUrl>
     <evolokSSOMyOrderURL>https://vipgo.indianexpress.com/subscriptions/</evolokSSOMyOrderURL>
-    <useEvolokSSO>yes</useEvolokSSO>
+    <useEvolokSSO>no</useEvolokSSO>
     <uaAPIUrl>https://ua.indianexpress.com/api/</uaAPIUrl>
     <uaGeoIpUrl>https://ua.indianexpress.com/api/geoip/resolve</uaGeoIpUrl>
     <authorEmailText> Get updates from your favourite author on mail. Sign up here.</authorEmailText>
