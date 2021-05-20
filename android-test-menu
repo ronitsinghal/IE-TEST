@@ -313,7 +313,7 @@
     <customHomeUrl>https://indianexpress.com/feedapi/home-3/</customHomeUrl>
     <customJsonHomeUrl>https://indianexpress.com/contentapi/212/home-5/</customJsonHomeUrl>
     <compressedHomeUrl>https://socialapps.expressindia.com/app/ie/live/home-3.json.zip</compressedHomeUrl>
-    <visualStoriesEnable>YES</visualStoriesEnable>
+    <visualStoriesEnable>NO</visualStoriesEnable>
     <visualStoriesUrl>https://socialapps.expressindia.com/app/ie/instagram/instagram.json</visualStoriesUrl>
     <appForceUpdate>NO</appForceUpdate>
     <evolokMeteringUrl>https://ieo.uat.evolok.net/acd/api/3.0/authorize/json</evolokMeteringUrl>
