@@ -1,25 +1,3 @@
-<rss xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:wp="http://wordpress.org/export/1.2/" xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
-<feeds>
-<Content>
-<searchUrl>https://indianexpress.com/feedapi/search/</searchUrl>
-<photoDetailURL>https://indianexpress.com/feedapi/photo-detail/</photoDetailURL>
-<singlePostURL>https://indianexpress.com/feedapi/singlepost/</singlePostURL>
-<relatedPostURL>https://indianexpress.com/feedapi/relatedpost/</relatedPostURL>
-<singleVideoURL>https://indianexpress.com/feedapi/singlevideos/</singleVideoURL>
-<relatedVideosURL>https://indianexpress.com/feedapi/relatedvideos/</relatedVideosURL>
-<singlePodcastURL>https://indianexpress.com/feedapi/singlepodcast/</singlePodcastURL>
-<topStoriesPodcastURL>https://indianexpress.com/feedapi/podcast/top-stories/</topStoriesPodcastURL>
-<NotificationCenterURL>https://snstest.indianexpress.com/ie/list.php</NotificationCenterURL>
-<WidgetURL>https://indianexpress.com/feedapi/multi-priority/2006351-1929673/1/</WidgetURL>
-<authorURL>https://indianexpress.com/feedapi/author/</authorURL>
-<aboutUsURL>https://indianexpress.com/about-us/</aboutUsURL>
-<privacyURL>https://indianexpress.com/privacy-policy/</privacyURL>
-<termsURL>https://indianexpress.com/terms-and-conditions/</termsURL>
-<customHomeUrl>https://indianexpress.com/feedapi/home-3/</customHomeUrl>
-<customJsonHomeUrl>https://indianexpress.com/contentapi/212/home-5/</customJsonHomeUrl>
-<compressedHomeUrl>https://socialapps.expressindia.com/app/ie/live/home-3.json.zip</compressedHomeUrl>
-<visualStoriesEnable>NO</visualStoriesEnable>
-<visualStoriesUrl>https://socialapps.expressindia.com/app/ie/instagram/instagram.json</visualStoriesUrl>
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
@@ -497,6 +475,4 @@
 			<value>3</value>
 		</Version>
 	</feeds>
-</rss>
-<Version></feeds>
 </rss>
