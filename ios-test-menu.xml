@@ -318,9 +318,10 @@
     <appForceUpdate>NO</appForceUpdate>
     <evolokMeteringUrl>https://ieo.uat.evolok.net/acd/api/3.0/authorize/json</evolokMeteringUrl>
     <evolokSSOUrl>https://ieo.uat.evolok.net/ic/api/</evolokSSOUrl>
-	<evolokSubscriptionRedirectUrl>https://indianexpress.com/newsletters/</evolokSubscriptionRedirectUrl>
+    <evolokSubscriptionRedirectUrl>https://indianexpress.com/newsletters/</evolokSubscriptionRedirectUrl>
     <evolokSocialRedirectUrl>https://vipgo.indianexpress.com/social-redirect/</evolokSocialRedirectUrl>
     <evolokNotifierUrl>https://ieo.uat.evolok.net/acd/api/3.0/widgets/templates/notifier</evolokNotifierUrl>
+    <evolokPaywallUrl>https://ieo.uat.evolok.net/acd/api/3.0/widgets/templates/paywall</evolokPaywallUrl>
     <evolokGetToken>https://devaccounts.indianexpress.com/api/v2/sso/user/evtkn/</evolokGetToken>
     <evolokSSORedirectUrl>https://vipgo.indianexpress.com/subscribe/</evolokSSORedirectUrl>
     <evolokSSOMyOrderURL>https://vipgo.indianexpress.com/subscriptions/</evolokSSOMyOrderURL>
